@@ -1,0 +1,72 @@
+[33mcommit 0281b85892302859fbc9026d899bd164e0f1a457[m
+Merge: e9892c2 48a4c9b
+Author: hansc1993 <hansc1993@sina.com>
+Date:   Sat Jun 10 01:13:18 2017 +0800
+
+    conflick fixed
+
+[33mcommit e9892c2a12e9bded59026ae3e03c79990e96fda1[m
+Author: hansc1993 <hansc1993@sina.com>
+Date:   Sat Jun 10 00:57:45 2017 +0800
+
+    & simple
+
+[33mcommit 48a4c9b1654c7822adb3ee66e9aabad69207e268[m
+Author: hansc1993 <hansc1993@sina.com>
+Date:   Sat Jun 10 00:55:11 2017 +0800
+
+    AND simple
+
+[33mcommit 6d3e5a8f2536e722ea89ff38c8bed2df4922fa22[m
+Author: hansc1993 <hansc1993@sina.com>
+Date:   Fri Jun 9 00:31:27 2017 +0800
+
+    branch test
+
+[33mcommit 4389eea82bec2d29aa11ee7bb5c98e343071a25b[m
+Author: hansc1993 <hansc1993@sina.com>
+Date:   Tue May 2 16:21:52 2017 +0800
+
+    remove test.txt
+
+[33mcommit ae889ce5c1e4c47e213d8389c939bfcc6852eb63[m
+Author: hansc1993 <hansc1993@sina.com>
+Date:   Tue May 2 16:18:38 2017 +0800
+
+    add test.txt
+
+[33mcommit a825aef7a80cbab143d80c51fbaac052911fc152[m
+Author: hansc1993 <hansc1993@sina.com>
+Date:   Tue May 2 15:22:14 2017 +0800
+
+    second change
+
+[33mcommit b24dc7ae366339fbfe99f3a89557b812688da102[m
+Author: hansc1993 <hansc1993@sina.com>
+Date:   Tue May 2 15:19:49 2017 +0800
+
+    git tracks changes
+
+[33mcommit 9aa10a18a57b04e08e28798a2394f26e4255145f[m
+Author: hansc1993 <hansc1993@sina.com>
+Date:   Tue May 2 15:16:59 2017 +0800
+
+    understand how stage works
+
+[33mcommit 4c9ba454fc758a27da4b6c441ecb1a7de52af574[m
+Author: hansc1993 <hansc1993@sina.com>
+Date:   Tue May 2 15:06:59 2017 +0800
+
+    append GPL
+
+[33mcommit 868b712040566d6605bee0861807616484fd71c3[m
+Author: hansc1993 <hansc1993@sina.com>
+Date:   Tue May 2 15:06:11 2017 +0800
+
+    add distributed
+
+[33mcommit e2b0d822e070bc08f23d43097d26dfc9d8a00089[m
+Author: hansc1993 <hansc1993@sina.com>
+Date:   Tue May 2 15:01:20 2017 +0800
+
+    wrote a readme file
