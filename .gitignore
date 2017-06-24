@@ -20,6 +20,7 @@ $RECYCLE.BIN/
 *.msp
 
 # Windows shortcuts
-*.lnk# myconfigurations:db.ini
+*.lnk# End of https://www.gitignore.io/api/windows
 
-# End of https://www.gitignore.io/api/windows
+# myconfiguration
+db.ini
